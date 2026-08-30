@@ -87,3 +87,15 @@ int main() {
     free(buffer);
     return 0;
 }
+
+/*
+output:-
+
+gcc -fopenmp p1.c -o p1
+./p1
+
+Sequential Time: 3.478580 seconds
+Parallel Time: 1.161901 seconds
+Time Difference: 2.316679 seconds
+
+*/

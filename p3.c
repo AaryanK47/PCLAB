@@ -36,3 +36,19 @@ int main() {
   
   return 0;
 }
+
+
+/*
+output:-
+
+gcc -fopenmp p3.c -o p3
+./p3
+
+Enter the number of Fibonacci terms: 5
+Fibonacci series: 
+fib(0) = 0
+fib(1) = 1
+fib(2) = 1
+fib(3) = 2
+fib(4) = 3
+*/

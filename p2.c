@@ -21,3 +21,18 @@ int main () {
   }
   return 0;
 }
+
+
+/*
+output:-
+
+gcc -fopenmp p2.c -o p2
+./p2
+
+Enter number of iterations: 4
+Thread 1 : Iteration 2
+Thread 1 : Iteration 3
+Thread 0 : Iteration 0
+Thread 0 : Iteration 1
+
+*/
