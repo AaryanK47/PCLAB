@@ -1,9 +1,6 @@
 # C Programs
 
-This repository contains C programs.
-
-## How to Compile and Run
-
+## THESE COMMANDS ARE FOR  UBUNTU ISO ---> INSIDE VIRTUAL BOX
 To execute a C program, open the terminal and navigate to the directory containing the `.c` file.
 
 ### Compile
