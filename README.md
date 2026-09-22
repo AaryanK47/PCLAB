@@ -4,7 +4,21 @@
 
 
 To execute a C program, open the terminal and navigate to the directory containing the `.c` file.
+---
 
+## Program Index
+
+| Program | Short Title |
+|---|---|
+| **P1** | Sequential and Parallel Merge Sort using OpenMP |
+| **P2** | OpenMP Static Scheduling with Chunk Size 2 |
+| **P3** | Fibonacci Series using OpenMP Tasks |
+| **P4** | Prime Numbers using OpenMP Parallel For |
+| **P5** | MPI_Send and MPI_Recv Communication |
+| **P6** | MPI Deadlock and Avoidance |
+| **P7** | MPI Broadcast Operation |
+| **P8** | MPI Scatter and Gather Operations |
+| **P9** | MPI Reduce and Allreduce Operations |
 ---
 
 # Program 1
